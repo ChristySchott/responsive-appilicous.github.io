@@ -6,7 +6,6 @@
 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#instalação-rocket">Link</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -36,15 +35,6 @@ Para abrir o site basta clicar [aqui](https://christyschott.github.io/responsive
 
 - Prepos
 
-## 🎨 Layout
-
-Desktop: 
-
-![Layout do projeto]()
-
-Mobile:
-
-![Layout mobile]()
 
 ## :memo: Licença
 
