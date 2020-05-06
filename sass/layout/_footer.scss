@@ -1,0 +1,46 @@
+footer {
+    background: $dark;
+    color: $text-inverse;
+    padding: 5em 0;
+    position: relative;
+
+    &::before {
+        content: '';
+        display: block;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background: url(../../img/logo.svg);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: center;
+        opacity: 0.05;
+    }
+
+    a {
+        color: $text-inverse;
+    }
+
+    .social-links {
+        display: flex;
+        justify-content: space-around;
+        font-size: 3rem;
+        opacity: 0.8;
+        margin: .7em 0;
+    }
+
+
+    .nav-footer {
+        display: flex;
+        justify-content: space-around;
+        width: 80%;
+        margin: 0 auto 0;
+    }
+
+    a {
+     text-decoration: none;
+     font-weight: $font-bold;
+    }
+}
